@@ -384,9 +384,6 @@ contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
 video.unrulymedia.com, 764922532, RESELLER
 dauup.com, 34103, RESELLER
 smartadserver.com, 3232, RESELLER, 060d053dcf45cbf3
-bigo.sg, 196, RESELLER
-openx.com, 537045659, RESELLER, 6a698e2ec38604c6
-appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 
 startapp.com, 165894419, DIRECT
 start.io, 165894419, DIRECT
