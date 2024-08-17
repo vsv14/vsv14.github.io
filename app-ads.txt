@@ -300,3 +300,4 @@ bigo.sg, 196, RESELLER
 openx.com, 537045659, RESELLER, 6a698e2ec38604c6
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 
+google.com, pub-9240046059814252, DIRECT, f08c47fec0942fa0
